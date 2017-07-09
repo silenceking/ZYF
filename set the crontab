@@ -1,0 +1,6 @@
+Now let's set the crontab to make your PC or server execute the python document everyday~
+First you should create a crontab document just like "vim test.cron";
+Then you could use "crontab -e" to set your wanted time to receive your email;
+Next write the test.cron to your log;
+Check the current crontab, crontab -l,make sure your task is written in the system;
+Finally, check your email!
